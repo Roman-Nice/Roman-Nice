@@ -5,8 +5,16 @@
 
 &nbsp;🔹 Jsem schopný pracovat rychle a samostatně \
 &nbsp;🔹 Rád se učím nové technologie \
-&nbsp;🔹 Spolupráce v angličtině pro mě není problém \
+&nbsp;🔹 Spolupráce v angličtině pro mě není problém 
 
 ### 🔵 Tech stack:
 
-WORK IN PROGRESS
+&nbsp;C# .NET 5, Core, Frameowrk\
+&nbsp;ASP.NET rest API\
+&nbsp;Blazor server & client\
+&nbsp;Html, css, sass\
+&nbsp;xml, xaml, json\
+&nbsp;Windows Forms, WPF (MVC)
+
+### 🔵 Work Experience:
+{{WORK IN PROGRESS}}
