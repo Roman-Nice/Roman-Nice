@@ -6,6 +6,10 @@
 &nbsp;      🔹 Rád se učím nové technologie \
 &nbsp;      🔹 Spolupráce v angličtině pro mě není problém 
 
+> email-12@seznam.cz
+> | +420 601 159 036
+
+
 ## **Tech stack:**
 
 &nbsp;      🔹 **IDE:**   Visual Studio 2019, advanced user\
