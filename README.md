@@ -2,14 +2,14 @@
 
 ## **About me:**
 
-
 &nbsp;      🔹 Jsem schopný pracovat rychle a samostatně \
 &nbsp;      🔹 Rád se učím nové technologie \
-&nbsp;      🔹 Spolupráce v angličtině pro mě není problém 
+&nbsp;      🔹 Spolupráce v angličtině pro mě není problém \
 
 ## **Tech stack:**
 
-&nbsp;      🔹 **Language:**   C# .NET 5, Core, Frameowrk\
+&nbsp;      🔹 **IDE:**   Visual Studio 2019, advanced user\
+&nbsp;      🔹 **Language:**   C# .NET 5, Core, Framework\
 &nbsp;      🔹 **Back-end:**   ASP.NET rest API\
 &nbsp;      🔹 **Modern web apps:**   Blazor server & client\
 &nbsp;      🔹 **Front-end:**   Html, css, sass\
