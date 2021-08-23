@@ -4,7 +4,7 @@
 
 &nbsp;      🔹 Jsem schopný pracovat rychle a samostatně \
 &nbsp;      🔹 Rád se učím nové technologie \
-&nbsp;      🔹 Spolupráce v angličtině pro mě není problém \
+&nbsp;      🔹 Spolupráce v angličtině pro mě není problém 
 
 ## **Tech stack:**
 
