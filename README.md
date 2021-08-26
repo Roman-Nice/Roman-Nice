@@ -17,14 +17,14 @@
 &nbsp;      🔹 **Language:**   C# .NET 5, Core, Framework\
 &nbsp;      🔹 **Back-end:**   ASP.NET rest API\
 &nbsp;      🔹 **Modern web apps:**   Blazor server & client\
-&nbsp;      🔹 **Front-end:**   Html, css, sass\
+&nbsp;      🔹 **Front-end:**   html, css, sass\
 &nbsp;      🔹 **Markup languagues:**   xml, xaml, json\
 &nbsp;      🔹 **Desktop frameworks:**   Windows Forms, WPF (MVC)\
-&nbsp;      🔹 **CLoud and source control:**   Azure (DevOps), github, IBM cloud, Apiary
+&nbsp;      🔹 **Cloud and source control:**   Azure (DevOps), GitHub, IBM cloud, Apiary
 
 ## **Work Experience:**
 #### **Návrh překladače formátů CSV - XML, TEKA** ####
->&nbsp;Jednoduchá desktopová aplikace pro obchodní společnost TEKA. Převádí 
+>&nbsp;Jednoduchá desktopová aplikace pro obchodní společnost TEKA. Převádí
 >&nbsp;formátovaný csv soubor na xml pro daňový portál.
 
 #### **Implementace ALZA dropshipment, PICCOLLO SPORT** ####
