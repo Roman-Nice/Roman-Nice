@@ -26,7 +26,7 @@
 #### **Návrh překladače formátů CSV - XML, TEKA** ####
 >&nbsp;Jednoduchá desktopová aplikace pro obchodní společnost TEKA. Převádí formátovaný csv soubor na xml pro daňový portál.
 
-#### **Implementace ALZA dropshipment, PICCOLLO SPORT** ####
+#### **Implementace ALZA dropshipment API, PICCOLLO SPORT** ####
 >&nbsp;Tvorba rest api podle požadavků oficiální [dokumentace](https://dropa.docs.apiary.io/#/reference/supplier-api/insert-order?mc=reference%2Fbuyer-api%2Fdelivery-result%2Fupdate-delivery-result%2F400).
 
 <!--&nbsp;
