@@ -19,6 +19,7 @@
 &nbsp;      🔹 **Modern web apps:**   Blazor server & client\
 &nbsp;      🔹 **Front-end:**   html, css, sass\
 &nbsp;      🔹 **Markup languagues:**   xml, xaml, json\
+&nbsp;      🔹 **DB & Query:**   SQL, Entity Framework, C# linq, Dapper\
 &nbsp;      🔹 **Desktop frameworks:**   Windows Forms, WPF (MVC)\
 &nbsp;      🔹 **Cloud and source control:**   Azure (DevOps), GitHub, IBM cloud, Apiary
 
