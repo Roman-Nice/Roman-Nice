@@ -8,7 +8,7 @@
 
 > email-12@seznam.cz
 > | +420 601 159 036
-<!-- > | [English Version](https://github.com/Roman-Nice/Roman-Nice/blob/main/ENGLISH.md)-->
+<!--  | [English Version](https://github.com/Roman-Nice/Roman-Nice/blob/main/ENGLISH.md)-->
 
 
 ## **Tech stack:**
