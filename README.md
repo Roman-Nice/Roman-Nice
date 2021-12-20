@@ -8,19 +8,19 @@
 
 > email-12@seznam.cz
 > | +420 601 159 036
-> | [English Version](https://github.com/Roman-Nice/Roman-Nice/blob/main/ENGLISH.md)
+<!-- > | [English Version](https://github.com/Roman-Nice/Roman-Nice/blob/main/ENGLISH.md)-->
 
 
 ## **Tech stack:**
 
 &nbsp;      🔹 **IDE:**   Visual Studio 2019, advanced user\
-&nbsp;      🔹 **Language:**   C# .NET 5, Core, Framework\
+&nbsp;      🔹 **Languages:**   C# .NET 5, Core, Framework, JavaScript node.js, React\
 &nbsp;      🔹 **Back-end:**   ASP.NET rest API\
-&nbsp;      🔹 **Modern web apps:**   Blazor server & client\
-&nbsp;      🔹 **Front-end:**   html, css, sass\
+&nbsp;      🔹 **Modern web apps:**   Blazor server & client (wasm), node.js & React\
+&nbsp;      🔹 **Front-end:**   html, css, sass, javaScript, React\
 &nbsp;      🔹 **Markup languagues:**   xml, xaml, json\
-&nbsp;      🔹 **DB & Query:**   SQL, Entity Framework, C# linq, Dapper\
-&nbsp;      🔹 **Desktop frameworks:**   Windows Forms, WPF (MVC)\
+&nbsp;      🔹 **DB & Query:**   SQL, Microsoft Entity Framework, C# linq, MongoDB\
+&nbsp;      🔹 **Desktop app frameworks:**   Windows Forms, WPF (MVC)\
 &nbsp;      🔹 **Cloud and source control:**   Azure (DevOps), GitHub, IBM cloud, Apiary
 
 ## **Work Experience:**
