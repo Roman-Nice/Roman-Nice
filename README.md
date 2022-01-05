@@ -14,8 +14,8 @@
 ## **Tech stack:**
 
 &nbsp;      🔹 **IDE:**   Visual Studio 2019, advanced user\
-&nbsp;      🔹 **Languages:**   C# .NET 5, Core, Framework, JavaScript node.js, React\
-&nbsp;      🔹 **Back-end:**   ASP.NET rest API\
+&nbsp;      🔹 **Languages:**   C# .NET 5, Core, Framework, JavaScript, TypeScript\
+&nbsp;      🔹 **Back-end:**   ASP.NET rest API, Node.js\
 &nbsp;      🔹 **Modern web apps:**   Blazor server & client (wasm), node.js & React\
 &nbsp;      🔹 **Front-end:**   html, css, sass, javaScript, React\
 &nbsp;      🔹 **Markup languagues:**   xml, xaml, json\
