@@ -21,7 +21,8 @@
 &nbsp;      🔹 **Markup languagues:**   xml, xaml, json\
 &nbsp;      🔹 **DB & Query:**   SQL, Microsoft Entity Framework, C# linq, MongoDB\
 &nbsp;      🔹 **Desktop app frameworks:**   Windows Forms, WPF (MVC)\
-&nbsp;      🔹 **CI&CD:**   Azure (DevOps), GitHub, IBM cloud, Apiary, TeamCity
+&nbsp;      🔹 **CI&CD:**   Azure (DevOps), GitHub, IBM cloud, Apiary, TeamCity\
+&nbsp;      🔹 **WCF service:**  https web services with SOAP authentication
 
 ## **Work Experience:**
 #### **Návrh překladače formátů CSV - XML, TEKA** ####
